@@ -63,15 +63,15 @@ export const Footer = () => {
       <Right>
         <Title>Contact</Title>
         <ContactItem>
-          <MapOutlinedIcon/>
+          <MapOutlinedIcon style={{marginRight:'10px'}}/>
           622 Dixie Path , South Tobienchester 98336
         </ContactItem>
         <ContactItem>
-          <LocalPhoneIcon />
+          <LocalPhoneIcon style={{marginRight:'10px'}}/>
           + 234 31 99999-9999
         </ContactItem>
         <ContactItem>
-          <EmailOutlinedIcon />
+          <EmailOutlinedIcon style={{marginRight:'10px'}}/>
           contact@lama.com
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png"/>
