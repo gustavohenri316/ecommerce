@@ -1,7 +1,5 @@
 import { Container } from "./style"
 
-
-
 export const Annoucement = () => {
   return (
     <Container>
